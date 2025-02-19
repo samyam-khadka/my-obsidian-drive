@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/process-dynamics/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/process-dynamics/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## Tutorial 1
