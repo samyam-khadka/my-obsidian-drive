@@ -5,7 +5,7 @@
 ## Tutorial 1
 - Cd = 1 (unless otherwise stated)
 - Torricelli’s Law: 
-	$$ v = \sqrt{ 2gh } $$
+	$ v = \sqrt{ 2gh }$
 - Flow rate out = 
 	$$ -Cd \cdot Ac \cdot v $$
 	* Note: Ac is the area of the cross-sectional area of the hole/ exit.
