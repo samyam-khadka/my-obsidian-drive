@@ -5,7 +5,7 @@
 ## Tutorial 1
 - Cd = 1 (unless otherwise stated)
 - Torricelli’s Law: 
-	$$ v = \sqrt{ 2gh }$$
+	$$ v = \sqrt{ 2gh } $$
 - Flow rate out = 
 	$$ -Cd \cdot Ac \cdot v $$
 	* Note: Ac is the area of the cross-sectional area of the hole/ exit.
@@ -34,8 +34,7 @@
 ## Tutorial 3
 * Read Laplace Table using the f(t) value (e^-st) doesn't matter.
 * After doing partial fraction, we can take each component of the partial fraction as individual thing in Laplace table when doing Laplace inverse.
-	* Laplace properties: 
-		 $$ \mathscr{L}(f(t) + g(t)) = \mathscr{L}(f(t) ) + \mathscr{L} (g(t)) $$
+	* Laplace properties: $$ \mathscr{L}(f(t) + g(t)) = \mathscr{L}(f(t) ) + \mathscr{L} (g(t)) $$
 * By definition: Step input --> suddenly changes from 0 to certain value at certain time and remains such forever (otherwise defined).
 * I have no clue why I forgot the most basic thing: 
 		$$ \begin{gathered}
